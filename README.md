@@ -115,7 +115,7 @@ https://www.kaggle.com/datasets/ayushdabra/sdsa-dse-406-606-demo-data
 ### Run as Python Script
 
 ```bash
-python chandu-conference-paper1.py
+python project.py
 ```
 
 ---
